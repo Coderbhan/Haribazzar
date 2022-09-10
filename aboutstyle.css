@@ -4,6 +4,7 @@
 header{
     height: 10rem;
     background-color: #314E52;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .head{
@@ -55,4 +56,20 @@ body{
 
 .dis{
     margin: 1rem;
+}
+
+.copy{
+    height: 5rem;
+    color: #E7E6E1;
+    font-size: 1.5rem;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+
+}
+footer{
+    height: 7rem;
+    background-color: #314E52;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
